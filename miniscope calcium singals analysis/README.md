@@ -6,5 +6,5 @@
   ## code
 MATLAB (R2018a) scripts for basic analyses, including heatmap generation, identification of responsive neurons, and response pattern visualization, are included in this folder.
   ## for affinity
-affinity_calculation.ipynb contains Python code for performing k-means clustering analysis of neuronal affinities. The data used in this code can be downloaded at [].
+affinity_calculation.ipynb contains Python code for performing k-means clustering analysis of neuronal affinities. The data used in this code can be downloaded at [http://bap.cebsit.ac.cn/publicdata/forAffinity.rar].
 
