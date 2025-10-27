@@ -1,6 +1,6 @@
 # fmost data analyse
 ## Environment
-The code environment files required to run the analyses can be downloaded at https://gitee.com/bigduduwxf/neuron-vis/tree/master.
+The code environment files required to run the analyses can be downloaded at [https://gitee.com/bigduduwxf/neuron-vis/tree/master](https://gitee.com/bigduduwxf/neuron-vis.git) or .
 ## Fig 3c,d,e
 task1_calb1-tnc_terminal_numbers
 ## Fig 3g, i
